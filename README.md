@@ -24,12 +24,12 @@ As AI agents become more prevalent on the web, websites need better ways to:
 ## The Solution 🧠
 agents.txt aims to establish a standard for:
 
-1. Authentication & Access Control
+**Authentication & Access Control**
 - Cryptographic authentication of legitimate AI agents
 - Tiered access management
 - Usage-based monetization
 
-2. AI Interaction Protocols
+**AI Interaction Protocols**
 - Declare AI-optimized endpoints
 - Define structured interaction paths
 - Specify available automated actions
