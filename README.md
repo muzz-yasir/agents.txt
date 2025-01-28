@@ -30,7 +30,7 @@ agents.txt aims to establish a standard for:
 - Usage-based monetization
 
 **AI Interaction Protocols**
-- Declare AI-optimized endpoints
+- Declare AI-optimised endpoints
 - Define structured interaction paths
 - Specify available automated actions
 - Document data schemas
