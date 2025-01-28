@@ -37,5 +37,7 @@ agents.txt aims to establish a standard for:
 
 # Get Involved
 🤖 Building AI agents? We want to hear about your access challenges
+
 🌐 Running high-traffic websites? Share your AI traffic management needs
+
 💡 Have ideas? Open an issue or join the discussion
