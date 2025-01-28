@@ -21,7 +21,7 @@ As AI agents become more prevalent on the web, websites need better ways to:
 - Increasing website blocks threatening business viability
 - Rising infrastructure costs from anti-bot measures
 
-## The Solution 🧠
+# The Solution 🧠
 agents.txt aims to establish a standard for:
 
 **Authentication & Access Control**
